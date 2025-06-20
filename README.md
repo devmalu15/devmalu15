@@ -1,4 +1,4 @@
-
+![Profile views](https://komarev.com/ghpvc/?username=devmalu15&color=blue)
 
 <!--
 **devmalu15/devmalu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

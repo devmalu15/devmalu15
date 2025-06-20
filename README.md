@@ -33,12 +33,12 @@ I'm a passionate **** with an interest in **[Your Area of Interest]**. I love bu
 -   **Tools:** Git, Docker, VS Code
 
 
-[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmalu15&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmalu15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Developer;Innovator;Problem%20Solver;Open%20Source%20Enthusiast&font=Fira%20Code&size=30&duration=3000&center=true&vCenter=true&width=400&height=50&color=F7DF1E&bg=20232A)](https://git.io/typing-svg)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)
-[![Follow Me](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=devmalu15.devmalu15)](https://github.com/devmalu15/devmalu15)
+[![Follow Me](https://img.shields.io/github/followers/devmalu15?label=Follow&style=social)](https://github.com/devmalu15)

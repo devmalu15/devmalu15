@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I'm a passionate **** with an interest in **[Your Area of Interest]**. I love building **[Type of Projects]** and exploring new technologies.
+I'm a passionate **Software Engineer** with an interest in **AI and Web Developement**. I love building **projects** and exploring new technologies.
 
 ---
 
 ### Skills
 
--   **Languages:** Python, Java, JavaScript, C++
+-   **Languages:** Python, Java, JavaScript
 -   **Frameworks:** React, Node.js, Spring Boot
 -   **Tools:** Git, Docker, VS Code
 

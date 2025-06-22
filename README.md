@@ -29,7 +29,7 @@ I'm a passionate **Software Engineer** with an interest in **AI and Web Develope
 ### Skills
 
 -   **Languages:** Python, Java, JavaScript
--   **Frameworks:** React, Node.js, Spring Boot
+-   **Frameworks:** React, Node.js, Flask
 -   **Tools:** Git, Docker, VS Code
 
 
